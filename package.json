@@ -1,5 +1,7 @@
 {
   "name": "komvida1",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "heroku": "^7.51.0"
+  }
 }
